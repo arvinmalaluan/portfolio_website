@@ -1,0 +1,33 @@
+[
+  {
+    "title": "ICONS South Luzon",
+    "tags": ["bootstrap", "jquery", "firebase", "express", "mysql"]
+  },
+  {
+    "title": "PESO-Lipa.Online",
+    "tags": [
+      "tailwind",
+      "django",
+      "websocket",
+      "postgresql",
+      "webworker",
+      "react"
+    ]
+  },
+  {
+    "title": "Estetik Beauty Salon",
+    "tags": ["bootstrap", "html", "css", "javascript", "php", "mysql"]
+  },
+  {
+    "title": "REAP (Rice Efficacy Across Philippines)",
+    "tags": ["data analytics", "python"]
+  },
+  {
+    "title": "Inventory Management System",
+    "tags": ["java", "mysql"]
+  },
+  {
+    "title": "Karenderya Ordering System",
+    "tags": ["c++"]
+  }
+]
